@@ -1,0 +1,33 @@
+<launch>
+
+  <!-- Launch kobuki gazebo -->
+  <include file="$(find kobuki_gazebo)/launch/my_kobuki.launch" />
+  <delay time="25" />
+
+
+  <!-- Launch rplidar -->
+  <!-- <include file="$(find rpliar_ros)/launch/rplidar.launch" />
+  <delay time="5" />  -->
+
+  <!-- Launch kobuki base -->
+  <!-- <include file="$(find kobuki_node)/launch/kobuki.launch" />
+  <delay time="10" />  -->
+
+  <!-- Launch astra cameras -->
+  <!-- <include file="$(find astra_camera)/launch/multi_astra.launch" />
+  <delay time="20" />  -->
+
+  <!-- Launch web socket -->
+  <!-- <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch" /> -->
+
+  
+
+  
+  <node name="robot_pose_publisher_node" pkg="robot_pose_publisher" type="robot_pose_publisher" output="screen">
+  </node>
+
+
+
+
+	
+</launch>

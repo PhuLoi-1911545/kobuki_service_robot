@@ -1,0 +1,16 @@
+- {id: station-1, name: Station 1, orientationW: 1.0, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.0, positionX: 1.0, positionY: 2.0, positionZ: 3.0}
+- {id: station-2, name: Station 2, orientationW: 1.0, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.0, positionX: 4.0, positionY: 5.0, positionZ: 6.0}
+- {id: station-3, name: Station 3, orientationW: 1.0, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.0, positionX: 7.0, positionY: 8.0, positionZ: 9.0}
+- {id: '3', name: station4, orientationW: 2.121, orientationX: 2.121, orientationY: 2.121,
+  orientationZ: 2.121, positionX: 2.121, positionY: 2.121, positionZ: 2.121}
+- {id: '3', name: station4, orientationW: 2.121, orientationX: 2.121, orientationY: 2.121,
+  orientationZ: 2.121, positionX: 2.121, positionY: 2.121, positionZ: 2.121}
+- {id: idStation5, name: station5, orientationW: 0.0, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.0, positionX: 3.121000051498413, positionY: 21.209999084472656,
+  positionZ: 31.100000381469727}
+- {id: idStation6, name: station6, orientationW: 0.0, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 5.099999904632568, positionX: 13.121000289916992, positionY: 1.2100000381469727,
+  positionZ: 3.0999999046325684}

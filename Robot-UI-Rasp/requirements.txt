@@ -1,0 +1,5 @@
+pyserial
+tkinter
+tk
+thread6
+simpleaudio

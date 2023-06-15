@@ -1,0 +1,10 @@
+- {id: station-1, name: Top Left, orientationW: 0.865151585617, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.501510452437, positionX: -0.0779905319214, positionY: -11.7250566483, positionZ: 0.0}
+- {id: station-2, name: Mid Right, orientationW: 1.0, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.340528268146, positionX: 13.0073699951, positionY: 2.34473824501, positionZ: 0.0}
+- {id: station-3, name: Mid Left, orientationW:  -0.288149778864, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.957585351256, positionX: -8.56373119354, positionY: -2.44938254356, positionZ: 0.0}
+- {id: idStation7, name: table, orientationW: 0.885261765366, orientationX: 0.0, orientationY: 0.0,
+  orientationZ: 0.465093116249, positionX: 4.54272222519, positionY: -0.591361999512, positionZ: 0.0}
+- {id: idstation8, name: Mid Bot, orientationW: 0.998512378959, orientationX: 0.0, orientationY: 0.0, 
+  orientationZ: 0.0545254900539, positionX: 5.5451631546, positionY: -6.91873884201, positionZ: 0.0}
